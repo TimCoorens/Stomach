@@ -17,3 +17,6 @@ The folder HDP_signatures contains the extracted indel and SNV signatures.
 "CNV_SV_analyses.R" contains the code to generate Figure 4 and Extended Data Figures 7-8, along with all statistical tests in the section "Recurrent trisomies in normal gastric glands".
 
 "Driver_analyses.R" contains the code to generate Figure 5 and Extended Data Figure 9, along with all statistical tests in the section "Driver mutations in normal gastric glands"
+
+### System requirements
+All code has been run using R (v4.3.1) and will run on the provided input files. Note that R packages loaded in individual scripts need to installed prior to use. 
