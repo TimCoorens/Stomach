@@ -19,4 +19,4 @@ The folder HDP_signatures contains the extracted indel and SNV signatures.
 "Driver_analyses.R" contains the code to generate Figure 5 and Extended Data Figure 9, along with all statistical tests in the section "Driver mutations in normal gastric glands"
 
 ### System requirements
-All code has been run using R (v4.3.1) and will run on the provided input files. Note that R packages loaded in individual scripts need to installed prior to use. 
+All code has been run using R (v4.3.1) and will run on the provided input files. Note that R packages loaded in individual scripts need to installed prior to use. R packages include lmerTest, readxl, vioplot, ape, ggtree, [dndscv](https://github.com/im3sanger/dndscv), and [HDP](https://github.com/nicolaroberts/hdp).
